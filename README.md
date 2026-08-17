@@ -1,2 +1,2 @@
 # Help-Desk-Database-System
-A relational database system designed for help desk management, including customers, support agents, tickets, departments, attachments, and a knowledge base.
+A Help Desk database system featuring relational schema design, SQL implementation, ticket management, support-agent assignment, and knowledge-base management.
